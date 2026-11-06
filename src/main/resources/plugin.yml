@@ -1,0 +1,18 @@
+name: VeyrionRP
+version: '${project.version}'
+main: id.veyrion.rp.VeyrionRP
+api-version: '1.21'
+author: Veyrion
+description: Nama roleplay via Book and Quill
+commands:
+  vrpname:
+    description: Ambil formulir nama RP
+    usage: /vrpname
+  veyrion:
+    description: Admin Veyrion RP
+    usage: /veyrion <reset|info> <player>
+    aliases: [vrp]
+    permission: veyrion.admin
+permissions:
+  veyrion.admin:
+    default: op

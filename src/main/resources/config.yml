@@ -1,0 +1,10 @@
+discord: "https://discord.gg/HQ3cM2psVX"
+
+# Warna/hiasan di dalam Book and Quill. Matikan kalau teks § muncul mentah.
+book-colors: true
+
+nametag:
+  # Sembunyikan nametag asli, ganti dengan nama RP di atas kepala
+  enabled: true
+  # Tinggi nama RP (naik/turun)
+  y-offset: 0.25
